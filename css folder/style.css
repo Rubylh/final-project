@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,300&family=Raleway:wght@100&display=swap');
+
+
+
+
+li a:hover {
+    background: color #111;
+}
+
+
+
+
+
+nav>ul{list-style-type: none;}
+nav>ul>li{
+    display: inline;
+    margin: 10px;
+}
+
+header{text-align: center; font-family: 'Raleway', sans-serif
+}
+nav{font-family:"Raleway";}
